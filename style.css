@@ -1,0 +1,18 @@
+img{
+    float:right;
+    clear: left; 
+    margin:2px;
+    }
+    hr{
+text-decoration:black solid;
+height: 2px;
+color: black solid;
+background-color: black;
+    }
+h3{
+
+    text-decoration: underline;
+}
+h4{
+    text-align: right;
+}
